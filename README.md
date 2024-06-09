@@ -62,7 +62,7 @@ In this section, we outline some best practices for managing UI state and handli
 ### Package Structure
 Packages are organized by features and layers to enhance modularity and ease of maintenance.
 
-
+```plaintext
 com.example.project
 ├── applevel
 │   ├── data
