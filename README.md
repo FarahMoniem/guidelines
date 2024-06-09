@@ -87,6 +87,7 @@ com.example.project
     │   ├── ports
     │   └── viewmodel
     └── usecase
+```
 
 ## Debugging
 [Chucker](https://github.com/ChuckerTeam/chucker) will be used in debugging endpoints for staging and dev flavors
